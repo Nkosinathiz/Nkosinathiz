@@ -43,27 +43,40 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 ## Tech Stack
 
-## Tech Stack
-
 <div align="center">
 
 <sub><b>LANGUAGES</b></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
 
-<br/><br/>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36"/><br/><sub>Java</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="36"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="36"/><br/><sub>Python</sub></td>
+</tr>
+</table>
+
+<br/>
 
 <sub><b>FRAMEWORKS & RUNTIME</b></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&theme=dark" />
 
-<br/><br/>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="36"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36"/><br/><sub>Next.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="36"/><br/><sub>Express</sub></td>
+</tr>
+</table>
+
+<br/>
 
 <sub><b>DATA & INFRA</b></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,azure,git&theme=dark" />
 
-</div>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36"/><br/><sub>MongoDB</sub></td>
+<td align="center"><img
 
 <br/>
 
