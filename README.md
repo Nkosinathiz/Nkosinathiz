@@ -32,33 +32,12 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 ## Experience
 
-<table width="100%">
-<tr>
-<th align="left">ROLE</th>
-<th align="left">ORGANISATION</th>
-<th align="left">PERIOD</th>
-</tr>
-<tr>
-<td>Software Developer</td>
-<td>Personal & Open Source Projects</td>
-<td><code>2023 — Present</code></td>
-</tr>
-<tr>
-<td>ICT Applications Development Student</td>
-<td>Sol Plaatje University</td>
-<td><code>2023 — 2025</code></td>
-</tr>
-<tr>
-<td>Part-time Cashier</td>
-<td>Retail</td>
-<td><code>2020 — 2021</code></td>
-</tr>
-<tr>
-<td>Game Attendant</td>
-<td>Entertainment Centre</td>
-<td><code>2017 — 2019</code></td>
-</tr>
-</table>
+| ROLE | ORGANISATION | PERIOD |
+|:-----|:--------------|:-------|
+| Software Developer | Personal & Open Source Projects | `2023 — Present` |
+| ICT Applications Development Student | Sol Plaatje University | `2023 — 2025` |
+| Part-time Cashier | Retail | `2020 — 2021` |
+| Game Attendant | Entertainment Centre | `2017 — 2019` |
 
 <br/>
 
@@ -95,44 +74,45 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>QuickCart</b> — Full-stack e-commerce platform</summary>
+<br/>
 
-### QuickCart
 Full-stack e-commerce platform with authentication, image hosting, and payment-ready architecture.
 
 `Next.js` `MongoDB` `Clerk` `Cloudinary`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### SA Opportunities AI Agent
+<details>
+<summary><b>SA Opportunities AI Agent</b> — AI assistant for jobs & bursaries</summary>
+<br/>
+
 AI-powered assistant that monitors jobs, bursaries, and university admissions across South Africa.
 
 `Python` `AI Agents` `Automation`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### Wrapped Insights
+<details>
+<summary><b>Wrapped Insights</b> — Spotify analytics platform</summary>
+<br/>
+
 Spotify analytics platform delivering personalized listening insights, Wrapped-style.
 
 `React` `Node.js` `Spotify API`
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### StudentCare
+<details>
+<summary><b>StudentCare</b> — Student productivity & wellness platform</summary>
+<br/>
+
 Productivity and wellness platform helping students manage assignments, schedules, and study goals.
 
 `React` `Firebase` `Node.js`
 
-</td>
-</tr>
-</table>
+</details>
 
 <br/>
 
@@ -140,13 +120,47 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkosinathiz&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="48%" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="100%" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkosinathiz&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="60%" /></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkosinathiz&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" width="48%" />
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nkosinathiz/Nkosinathiz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nkosinathiz/Nkosinathiz/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nkosinathiz/Nkosinathiz/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nkosinathiz&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nkosinathiz&color=39D353&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -171,7 +185,7 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <div align="center">
 
-South Africa &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; nkosinathiz@email.com
+South Africa &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-linkedin) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; your@email.com
 
 <br/>
 
