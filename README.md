@@ -158,24 +158,6 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nkosinathiz&color=39D353&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
-## Currently Learning
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/-AI_%26_Agents-0d1117?style=flat-square&color=39D353)
-![Cloud](https://img.shields.io/badge/-Cloud_Computing-0d1117?style=flat-square&color=39D353)
-![Docker](https://img.shields.io/badge/-Docker_%26_DevOps-0d1117?style=flat-square&color=39D353)
-![Systems](https://img.shields.io/badge/-System_Design-0d1117?style=flat-square&color=39D353)
-
-</div>
 
 <br/>
 
