@@ -119,19 +119,16 @@ Productivity and wellness platform helping students manage assignments, schedule
 ## GitHub Stats
 
 <div align="center">
-
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="100%" /></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="100%" /></td>
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkosinathiz&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="100%" /></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="60%" /></td>
+<td colspan="2" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="60%" /></td>
 </tr>
 </table>
-
 </div>
-
 <br/>
 
 ## Contribution Snake
