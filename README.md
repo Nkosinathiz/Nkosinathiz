@@ -79,6 +79,7 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 <td align="center"><img
 
 <br/>
+</div>
 
 ## Featured Projects
 
