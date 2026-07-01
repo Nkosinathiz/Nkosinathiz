@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:your@email.com)
 
 <br/>
@@ -74,51 +74,72 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 ## Featured Projects
 
-<details>
-<summary><b>QuickCart</b> — Full-stack e-commerce platform</summary>
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-Full-stack e-commerce platform with authentication, image hosting, and payment-ready architecture.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=70&text=QuickCart&fontSize=26&fontColor=1a1a1a&fontAlignY=55&fontFamily=Poppins" width="100%"/>
 
-`Next.js` `MongoDB` `Clerk` `Cloudinary`
+**E-commerce, built to convert.**
 
-</details>
+Full-stack shopping platform with secure auth, media hosting, and a payment-ready checkout flow — designed to feel fast from browse to buy.
 
-<details>
-<summary><b>SA Opportunities AI Agent</b> — AI assistant for jobs & bursaries</summary>
-<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 
-AI-powered assistant that monitors jobs, bursaries, and university admissions across South Africa.
+[![Code](https://img.shields.io/badge/View_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nkosinathiz/quickcart) [![Demo](https://img.shields.io/badge/Live_Demo-FFD200?style=for-the-badge&logo=vercel&logoColor=1a1a1a)](https://your-quickcart-demo.com)
 
-`Python` `AI Agents` `Automation`
+</td>
+<td width="50%" valign="top">
 
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=70&text=SA%20Opportunities%20AI&fontSize=22&fontColor=ffffff&fontAlignY=55&fontFamily=Poppins" width="100%"/>
 
-<details>
-<summary><b>Wrapped Insights</b> — Spotify analytics platform</summary>
-<br/>
+**AI that hunts opportunities, so you don't have to.**
 
-Spotify analytics platform delivering personalized listening insights, Wrapped-style.
+Autonomous agent that scans and surfaces jobs, bursaries, and university admissions across South Africa in real time.
 
-`React` `Node.js` `Spotify API`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-8E2DE2?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Automation-4A00E0?style=flat-square&logo=zapier&logoColor=white"/>
 
-</details>
+[![Code](https://img.shields.io/badge/View_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nkosinathiz/sa-opportunities-agent) [![Demo](https://img.shields.io/badge/Live_Demo-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-agent-demo.com)
 
-<details>
-<summary><b>StudentCare</b> — Student productivity & wellness platform</summary>
-<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
 
-Productivity and wellness platform helping students manage assignments, schedules, and study goals.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:191414&height=70&text=Wrapped%20Insights&fontSize=26&fontColor=ffffff&fontAlignY=55&fontFamily=Poppins" width="100%"/>
 
-`React` `Firebase` `Node.js`
+**Your year in music, quantified.**
 
-</details>
+Spotify analytics platform delivering personalized listening insights — top artists, genres, and habits, Wrapped-style, year-round.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
+
+[![Code](https://img.shields.io/badge/View_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nkosinathiz/wrapped-insights) [![Demo](https://img.shields.io/badge/Live_Demo-1DB954?style=for-the-badge&logo=vercel&logoColor=white)](https://your-wrapped-demo.com)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2980B9,100:6DD5FA&height=70&text=StudentCare&fontSize=26&fontColor=ffffff&fontAlignY=55&fontFamily=Poppins" width="100%"/>
+
+**Study smarter. Stress less.**
+
+Productivity and wellness platform helping students manage assignments, schedules, and study goals in one calm place.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+[![Code](https://img.shields.io/badge/View_Code-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nkosinathiz/studentcare) [![Demo](https://img.shields.io/badge/Live_Demo-2980B9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-studentcare-demo.com)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## GitHub Stats
 
 <div align="center">
+
 <table>
 <tr>
 <td><img src="https://github-stats-extended.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="100%" /></td>
@@ -128,7 +149,9 @@ Productivity and wellness platform helping students manage assignments, schedule
 <td colspan="2" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="60%" /></td>
 </tr>
 </table>
+
 </div>
+
 <br/>
 
 ## Contribution Snake
@@ -145,13 +168,44 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <br/>
 
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nkosinathiz&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Nkosinathiz&color=39D353&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+## Currently Learning
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/-AI_%26_Agents-0d1117?style=flat-square&color=39D353)
+![Cloud](https://img.shields.io/badge/-Cloud_Computing-0d1117?style=flat-square&color=39D353)
+![Docker](https://img.shields.io/badge/-Docker_%26_DevOps-0d1117?style=flat-square&color=39D353)
+![Systems](https://img.shields.io/badge/-System_Design-0d1117?style=flat-square&color=39D353)
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0d1117&height=3&width=1000" />
 
 <br/>
 
 <div align="center">
 
-South Africa &nbsp;·&nbsp; 2026
+South Africa &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-linkedin) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; your@email.com
 
 <br/>
 
