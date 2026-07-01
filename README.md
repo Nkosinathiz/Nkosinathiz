@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://your-image-url-here.com/avatar.png" width="150" style="border-radius:50%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39D353&height=220&section=header&text=Nkosinathi%20Zitha&fontSize=54&fontColor=ffffff&fontAlignY=38&fontFamily=Poppins&animation=fadeIn&desc=Software%20Developer&descAlignY=58&descSize=20&descColor=39D353" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=NKOSINATHI+ZITHA;Software+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Next.js+%7C+Node.js+%7C+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Building+with+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-##  &nbsp;About
+## About
 
 I'm a Software Developer from South Africa with a Diploma in Information and Communications Technology (Applications Development) from Sol Plaatje University.
 
@@ -30,7 +30,7 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 <br/>
 
-##  &nbsp;Experience
+## Experience
 
 <table width="100%">
 <tr>
@@ -62,7 +62,7 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 <br/>
 
-##  &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -93,13 +93,13 @@ I've built projects ranging from e-commerce platforms and AI agents to Spotify a
 
 <br/>
 
-##  &nbsp;Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-###  QuickCart
+### QuickCart
 Full-stack e-commerce platform with authentication, image hosting, and payment-ready architecture.
 
 `Next.js` `MongoDB` `Clerk` `Cloudinary`
@@ -107,7 +107,7 @@ Full-stack e-commerce platform with authentication, image hosting, and payment-r
 </td>
 <td width="50%" valign="top">
 
-###  SA Opportunities AI Agent
+### SA Opportunities AI Agent
 AI-powered assistant that monitors jobs, bursaries, and university admissions across South Africa.
 
 `Python` `AI Agents` `Automation`
@@ -117,7 +117,7 @@ AI-powered assistant that monitors jobs, bursaries, and university admissions ac
 <tr>
 <td width="50%" valign="top">
 
-###  Wrapped Insights
+### Wrapped Insights
 Spotify analytics platform delivering personalized listening insights, Wrapped-style.
 
 `React` `Node.js` `Spotify API`
@@ -125,7 +125,7 @@ Spotify analytics platform delivering personalized listening insights, Wrapped-s
 </td>
 <td width="50%" valign="top">
 
-###  StudentCare
+### StudentCare
 Productivity and wellness platform helping students manage assignments, schedules, and study goals.
 
 `React` `Firebase` `Node.js`
@@ -136,23 +136,23 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <br/>
 
-##  &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nkosinathiz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkosinathiz&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkosinathiz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nkosinathiz&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" width="48%" />
 
 </div>
 
 <br/>
 
-##  &nbsp;Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <div align="center">
 
- &nbsp;South Africa 🇿🇦 &nbsp;·&nbsp;  &nbsp;[LinkedIn](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/) &nbsp;·&nbsp;  &nbsp;[Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; Email &nbsp;your@email.com
+South Africa &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; nkosinathiz@email.com
 
 <br/>
 
