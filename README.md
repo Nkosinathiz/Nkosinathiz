@@ -1,122 +1,179 @@
 <div align="center">
 
-<img src="https://me.com/avatar.png" width="180" style="border-radius:50%;" />
+<img src="https://your-image-url-here.com/avatar.png" width="150" style="border-radius:50%;" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=NKOSINATHI+ZITHA;Software+Developer;Java+%7C+JavaScript+%7C+Python;React+%7C+Next.js+%7C+Node.js+%7C+AI" alt="Typing SVG" />
 
 <br/>
 
-```text
-NKOSINATHI ZITHA
-```
-
-### SOFTWARE DEVELOPER
-
-*Java · JavaScript · Python · React · Next.js · Node.js · AI*
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:your@email.com)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Coming_Soon-black?style=flat-square&logo=vercel&logoColor=green&color=0d1117&labelColor=0d1117)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-black?style=flat-square&logo=linkedin&logoColor=green&color=0d1117&labelColor=0d1117)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/EMAIL-your_email-black?style=flat-square&logo=gmail&logoColor=green&color=0d1117&labelColor=0d1117)](mailto:your@email.com)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39D353&height=3&width=1000" />
 
 </div>
 
----
+<br/>
 
-# 01 — ABOUT
+##  &nbsp;About
 
 I'm a Software Developer from South Africa with a Diploma in Information and Communications Technology (Applications Development) from Sol Plaatje University.
 
-I enjoy building full-stack web applications, AI-powered tools, and backend systems that solve real-world problems. My interests include Artificial Intelligence, cloud technologies, automation, and scalable software architecture.
+I enjoy building full-stack web applications, AI-powered tools, and backend systems that solve real-world problems. My interests include artificial intelligence, cloud technologies, automation, and scalable software architecture.
 
-I've built projects ranging from e-commerce platforms and AI agents to Spotify analytics tools and university opportunity trackers. I'm always learning new technologies and enjoy turning ideas into products people can actually use.
+I've built projects ranging from e-commerce platforms and AI agents to Spotify analytics tools and university opportunity trackers — I'm always learning new things and enjoy turning ideas into products people can actually use.
 
----
+<br/>
 
-# 02 — EXPERIENCE
+##  &nbsp;Experience
 
-| ROLE | ORGANISATION | PERIOD |
-|---|---|---|
-| Software Developer | Personal & Open Source Projects | 2023 — Present |
-| ICT Applications Development Student | Sol Plaatje University | 2023 — 2025 |
-| Part-time Cashier | Retail | 2020 — 2021 |
-| Game Attendant | Entertainment Centre | 2017 — 2019 |
+<table width="100%">
+<tr>
+<th align="left">ROLE</th>
+<th align="left">ORGANISATION</th>
+<th align="left">PERIOD</th>
+</tr>
+<tr>
+<td>Software Developer</td>
+<td>Personal & Open Source Projects</td>
+<td><code>2023 — Present</code></td>
+</tr>
+<tr>
+<td>ICT Applications Development Student</td>
+<td>Sol Plaatje University</td>
+<td><code>2023 — 2025</code></td>
+</tr>
+<tr>
+<td>Part-time Cashier</td>
+<td>Retail</td>
+<td><code>2020 — 2021</code></td>
+</tr>
+<tr>
+<td>Game Attendant</td>
+<td>Entertainment Centre</td>
+<td><code>2017 — 2019</code></td>
+</tr>
+</table>
 
----
+<br/>
 
-# 03 — TECH STACK
+##  &nbsp;Tech Stack
 
 <div align="center">
 
+**Languages**
+<br/>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+**Frameworks & Runtime**
+<br/>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+**Data & Infra**
+<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
+<br/>
 
-# 04 — FEATURED PROJECTS
+##  &nbsp;Featured Projects
 
-### 🛒 QuickCart
-A full-stack e-commerce platform built with Next.js, MongoDB, Clerk Authentication, Cloudinary, and Stripe-ready architecture.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 South African Opportunities AI Agent
-An AI-powered assistant that monitors jobs, bursaries, and university admissions across South Africa.
+###  QuickCart
+Full-stack e-commerce platform with authentication, image hosting, and payment-ready architecture.
 
-### 🎵 Wrapped Insights
-A Spotify analytics platform that provides personalized listening insights similar to Spotify Wrapped.
+`Next.js` `MongoDB` `Clerk` `Cloudinary`
 
-### 📊 StudentCare
-A productivity and wellness platform designed to help university students manage assignments, schedules, and study goals.
+</td>
+<td width="50%" valign="top">
 
----
+###  SA Opportunities AI Agent
+AI-powered assistant that monitors jobs, bursaries, and university admissions across South Africa.
 
-# 05 — GITHUB STATS
+`Python` `AI Agents` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+###  Wrapped Insights
+Spotify analytics platform delivering personalized listening insights, Wrapped-style.
+
+`React` `Node.js` `Spotify API`
+
+</td>
+<td width="50%" valign="top">
+
+###  StudentCare
+Productivity and wellness platform helping students manage assignments, schedules, and study goals.
+
+`React` `Firebase` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+##  &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353" width="49%" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" width="48%" />
 
 </div>
 
----
+<br/>
 
-# 06 — CURRENTLY LEARNING
-
--  Artificial Intelligence & AI Agents
--  Cloud Computing (Azure)
--  Docker & DevOps
--  Scalable Backend Systems
--  System Design & Software Architecture
-
----
-
-# 07 — CONTACT
+##  &nbsp;Currently Learning
 
 <div align="center">
 
- South Africa 🇿🇦
+![AI](https://img.shields.io/badge/-AI_%26_Agents-0d1117?style=flat-square&color=39D353)
+![Cloud](https://img.shields.io/badge/-Cloud_Computing-0d1117?style=flat-square&color=39D353)
+![Docker](https://img.shields.io/badge/-Docker_%26_DevOps-0d1117?style=flat-square&color=39D353)
+![Systems](https://img.shields.io/badge/-System_Design-0d1117?style=flat-square&color=39D353)
 
- LinkedIn •  Portfolio 
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0d1117&height=3&width=1000" />
+
+<br/>
+
+<div align="center">
+
+ &nbsp;South Africa 🇿🇦 &nbsp;·&nbsp;  &nbsp;[LinkedIn](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/) &nbsp;·&nbsp;  &nbsp;[Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; Email &nbsp;your@email.com
+
+<br/>
 
 *"Building software that solves real-world problems."*
 
