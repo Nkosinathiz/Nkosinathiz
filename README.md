@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:your@email.com)
 
 <br/>
@@ -148,26 +148,13 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <br/>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nkosinathiz&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%" />
-
-</div>
-
-<br/>
-
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:0d1117&height=3&width=1000" />
 
 <br/>
 
 <div align="center">
 
-South Africa &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-linkedin) &nbsp;·&nbsp; [Portfolio](https://your-portfolio.com) &nbsp;·&nbsp; your@email.com
+South Africa &nbsp;·&nbsp; 2026
 
 <br/>
 
