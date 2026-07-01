@@ -168,6 +168,4 @@ Productivity and wellness platform helping students manage assignments, schedule
 
 <br/>
 
-*"Building software that solves real-world problems."*
-
 </div>
