@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Building+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Java+%7C+JavaScript+%7C+Python;React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" />
 
 <br/>
 
