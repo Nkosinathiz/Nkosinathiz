@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO--0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://nkosinathiz.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/)
+[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:nkosinathiz@email.com)
 
 <br/>
 
