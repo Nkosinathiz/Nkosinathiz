@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO--0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://nkosinathiz.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING SOON-0d1117?style=for-the-badge&logo=vercel&logoColor=39D353)](https://nkosinathiz.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39D353)](https://www.linkedin.com/in/nkosinathi-zitha-45b94126b/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=39D353)](mailto:nkosinathiz@email.com)
 
